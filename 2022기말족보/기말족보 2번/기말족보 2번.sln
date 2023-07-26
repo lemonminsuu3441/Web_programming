@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기말족보 2번", "기말족보 2번\기말족보 2번.csproj", "{021A11A8-CD6D-4528-8C71-BCD5CBF73842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021A11A8-CD6D-4528-8C71-BCD5CBF73842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021A11A8-CD6D-4528-8C71-BCD5CBF73842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021A11A8-CD6D-4528-8C71-BCD5CBF73842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021A11A8-CD6D-4528-8C71-BCD5CBF73842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD68E0D-EE0A-4108-8345-DA66E281C24D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\20231163 심아연 과제 1\bin\Debug\20231163 심아연 과제 1.exe.config
+C:\Users\Student\Desktop\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20231163 심아연 과제 1\obj\Debug\_20231163_심아연_과제_1.Form1.resources
+C:\Users\Student\Desktop\20231163 심아연 과제 1\obj\Debug\_20231163_심아연_과제_1.Properties.Resources.resources
+C:\Users\Student\Desktop\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20231163 심아연 과제 1\bin\Debug\20231163 심아연 과제 1.exe
+C:\Users\Student\Desktop\20231163 심아연 과제 1\bin\Debug\20231163 심아연 과제 1.pdb
+C:\Users\Student\Desktop\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.exe
+C:\Users\Student\Desktop\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\bin\Debug\20231163 심아연 과제 1.exe.config
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\bin\Debug\20231163 심아연 과제 1.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\bin\Debug\20231163 심아연 과제 1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\_20231163_심아연_과제_1.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\_20231163_심아연_과제_1.Properties.Resources.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 1\obj\Debug\20231163 심아연 과제 1.pdb

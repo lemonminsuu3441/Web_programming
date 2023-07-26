@@ -1,0 +1,31 @@
+C:\Users\Student\Desktop\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.exe.config
+C:\Users\Student\Desktop\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.exe
+C:\Users\Student\Desktop\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.pdb
+C:\Users\Student\Desktop\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20231554_김민수 과제1\obj\Debug\_20231554_김민수_과제1.Form1.resources
+C:\Users\Student\Desktop\20231554_김민수 과제1\obj\Debug\_20231554_김민수_과제1.Properties.Resources.resources
+C:\Users\Student\Desktop\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.exe
+C:\Users\Student\Desktop\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.pdb
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.exe.config
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.exe
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.pdb
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.AssemblyReference.cache
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.SuggestedBindingRedirects.cache
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\_20231554_김민수_과제1.Form1.resources
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\_20231554_김민수_과제1.Properties.Resources.resources
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.GenerateResource.cache
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.CoreCompileInputs.cache
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.exe
+D:\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.exe.config
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\bin\Debug\20231554_김민수 과제1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.SuggestedBindingRedirects.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\_20231554_김민수_과제1.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\_20231554_김민수_과제1.Properties.Resources.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_10주차\20231554_김민수 과제1\obj\Debug\20231554_김민수 과제1.pdb

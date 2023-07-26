@@ -1,0 +1,34 @@
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.exe
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.deps.json
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.runtimeconfig.json
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.AssemblyInfoInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.AssemblyInfo.cs
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\refint\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.genruntimeconfig.cache
+C:\Users\minsu\OneDrive\바탕 화면\기말족보1\기말족보1\obj\Debug\net6.0-windows\ref\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.deps.json
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.runtimeconfig.json
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\bin\Debug\net6.0-windows\기말족보1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.AssemblyInfoInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.AssemblyInfo.cs
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\refint\기말족보1.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\기말족보1.genruntimeconfig.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\2022기말족보\기말족보1\기말족보1\obj\Debug\net6.0-windows\ref\기말족보1.dll

@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\20231554_김민수_과제3\bin\Debug\20231554_김민수_과제3.exe.config
+C:\Users\Student\Desktop\20231554_김민수_과제3\obj\Debug\_20231554_김민수_과제3.Form1.resources
+C:\Users\Student\Desktop\20231554_김민수_과제3\obj\Debug\_20231554_김민수_과제3.Properties.Resources.resources
+C:\Users\Student\Desktop\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20231554_김민수_과제3\bin\Debug\20231554_김민수_과제3.exe
+C:\Users\Student\Desktop\20231554_김민수_과제3\bin\Debug\20231554_김민수_과제3.pdb
+C:\Users\Student\Desktop\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.exe
+C:\Users\Student\Desktop\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.pdb
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\bin\Debug\20231554_김민수_과제3.exe.config
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\bin\Debug\20231554_김민수_과제3.exe
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\bin\Debug\20231554_김민수_과제3.pdb
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.csproj.SuggestedBindingRedirects.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\_20231554_김민수_과제3.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\_20231554_김민수_과제3.Properties.Resources.resources
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.exe
+C:\Users\minsu\OneDrive\바탕 화면\20231554_김민수_4주차\20231554_김민수_과제3\obj\Debug\20231554_김민수_과제3.pdb

@@ -1,0 +1,2 @@
+c:\users\student\documents\visual studio 2013\Projects\20231554김민수 3주차 과제-1\bin\Debug\20231554김민수 3주차 과제-1.exe.config
+C:\Users\Student\Documents\Visual Studio 2013\Projects\20231554김민수_과제1\bin\Debug\20231554김민수 3주차 과제-1.exe.config

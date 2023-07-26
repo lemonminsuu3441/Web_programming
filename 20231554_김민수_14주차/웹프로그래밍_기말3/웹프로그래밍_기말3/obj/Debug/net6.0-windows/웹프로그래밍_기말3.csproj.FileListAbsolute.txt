@@ -1,0 +1,34 @@
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.exe
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.deps.json
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.runtimeconfig.json
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.dll
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.pdb
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.csproj.AssemblyReference.cache
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.Form1.resources
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.csproj.GenerateResource.cache
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.AssemblyInfoInputs.cache
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.AssemblyInfo.cs
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.csproj.CoreCompileInputs.cache
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.dll
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\refint\웹프로그래밍_기말3.dll
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.pdb
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.genruntimeconfig.cache
+C:\Users\Jiugae\Desktop\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\ref\웹프로그래밍_기말3.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.deps.json
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.runtimeconfig.json
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\bin\Debug\net6.0-windows\웹프로그래밍_기말3.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.AssemblyInfoInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.AssemblyInfo.cs
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\refint\웹프로그래밍_기말3.dll
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\웹프로그래밍_기말3.genruntimeconfig.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231554_김민수_14주차\웹프로그래밍_기말3\웹프로그래밍_기말3\obj\Debug\net6.0-windows\ref\웹프로그래밍_기말3.dll

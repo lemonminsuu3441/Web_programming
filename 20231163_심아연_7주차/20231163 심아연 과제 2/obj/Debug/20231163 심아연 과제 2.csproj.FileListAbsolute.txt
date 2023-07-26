@@ -1,0 +1,31 @@
+C:\Users\Student\Desktop\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.exe.config
+C:\Users\Student\Desktop\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.exe
+C:\Users\Student\Desktop\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.pdb
+C:\Users\Student\Desktop\20231163 심아연 과제 2\obj\Debug\_20231163_심아연_과제_2.Form1.resources
+C:\Users\Student\Desktop\20231163 심아연 과제 2\obj\Debug\_20231163_심아연_과제_2.Properties.Resources.resources
+C:\Users\Student\Desktop\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.exe
+C:\Users\Student\Desktop\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.pdb
+C:\Users\Student\Desktop\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csprojResolveAssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.exe.config
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.exe
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.pdb
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\_20231163_심아연_과제_2.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\_20231163_심아연_과제_2.Properties.Resources.resources
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.exe
+C:\Users\minsu\OneDrive\바탕 화면\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.AssemblyReference.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\_20231163_심아연_과제_2.Form1.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\_20231163_심아연_과제_2.Properties.Resources.resources
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.GenerateResource.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.csproj.CoreCompileInputs.cache
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\obj\Debug\20231163 심아연 과제 2.pdb
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.exe.config
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.exe
+C:\Users\minsu\OneDrive\바탕 화면\웹 프로그래밍 자료집\20231163_심아연_7주차\20231163 심아연 과제 2\bin\Debug\20231163 심아연 과제 2.pdb
